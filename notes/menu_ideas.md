@@ -11,10 +11,21 @@ This program will run mainly in text mode(likely mode 03h).
 Main Menu
 &#x251C;&#x2500; Hardware
 &#x2502;  &#x251C;&#x2500; Components
+&#x2502;  &#x2502;  &#x251C;&#x2500; Main Components
+&#x2502;  &#x2502;  &#x2502;  &#x251C;&#x2500; CPU
+&#x2502;  &#x2502;  &#x2502;  &#x251C;&#x2500; RAM
+&#x2502;  &#x2502;  &#x2502;     &#x2514;&#x2500; ...
+&#x2502;  &#x2502;  &#x2502;  &#x251C;&#x2500; SSD/HDD
+&#x2502;  &#x2502;  &#x2502;     &#x2514;&#x2500; ...
+&#x2502;  &#x2502;  &#x2502;  &#x2514;&#x2500; PSU
 &#x2502;  &#x2502;  &#x251C;&#x2500; PCI/PCIe-Connected
-&#x2502;  &#x2502;  &#x251C;&#x2500; ISA-Connected
-&#x2502;  &#x2502;  &#x2514;&#x2500;
+&#x2502;  &#x2502;     &#x2514;&#x2500; ...
+&#x2502;  &#x2502;  &#x2514;&#x2500; ISA-Connected
+&#x2502;  &#x2502;     &#x2514;&#x2500; ...
 &#x2502;  &#x251C;&#x2500; Built-In 
+&#x2502;     &#x251C;&#x2500;
+&#x2502;  &#x2514;&#x2500; External
+&#x2502;     &#x251C;&#x2500; 
 &#x2502;  
 &#x251C;&#x2500; Booting
 &#x251C;&#x2500; BIOS
