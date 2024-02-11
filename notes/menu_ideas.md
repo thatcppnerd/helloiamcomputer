@@ -10,14 +10,13 @@ This program will run mainly in text mode(likely mode 03h).
 <pre>
 Main Menu
 &#x251C;&#x2500; Hardware
-&#x2502;  &#x251C;&#x2500; Components
-&#x2502;  &#x2502;  &#x251C;&#x2500; Main Components
-&#x2502;  &#x2502;  &#x2502;  &#x251C;&#x2500; CPU
-&#x2502;  &#x2502;  &#x2502;  &#x251C;&#x2500; RAM
-&#x2502;  &#x2502;  &#x2502;  &#x2502;  &#x2514;&#x2500; ...
-&#x2502;  &#x2502;  &#x2502;  &#x251C;&#x2500; SSD/HDD
-&#x2502;  &#x2502;  &#x2502;  &#x2502;  &#x2514;&#x2500; ...
-&#x2502;  &#x2502;  &#x2502;  &#x2514;&#x2500; PSU
+&#x2502;  &#x2514;&#x2500; Components
+&#x2502;     &#x251C;&#x2500; CPU
+&#x2502;     &#x251C;&#x2500; RAM
+&#x2502;     &#x2502;  &#x2514;&#x2500; ...
+&#x2502;     &#x251C;&#x2500; SSD/HDD
+&#x2502;     &#x2502;  &#x2514;&#x2500; ...
+&#x2502;     &#x2514;&#x2500; PSU
 &#x251C;&#x2500; Booting
 &#x2502;  &#x2514;&#x2500; ...
 &#x2514;&#x2500; BIOS
@@ -33,21 +32,18 @@ The menu will contain the following selections:
 
     Hello, I am Computer ver. XX.XX.XX
 
-    MAIN MENU
+    Main Menu
 
-    HARDWARE
-    BOOTING
+    Hardware
+    Booting
     BIOS
 
-    SHUTDOWN
+    Shut down
 
 ### Hardware Menu
     HARDWARE MENU
 
-    ATTACHED COMPONENTS
-    BUILT-IN COMPONENTS
-    CPU
-    RAM
+    COMPONENTS
 
     BACK
 
